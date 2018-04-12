@@ -1672,4 +1672,4 @@ var zip_deflate = function(str, level) {
 if (! ctx.RawDeflate) ctx.RawDeflate = {};
 ctx.RawDeflate.deflate = zip_deflate;
 
-})(this);
+})(window);

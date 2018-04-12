@@ -171,4 +171,4 @@
         };
     }
     // that's it!
-})(this);
+})(window);

@@ -752,4 +752,4 @@ var zip_inflate = function(str) {
 if (! ctx.RawDeflate) ctx.RawDeflate = {};
 ctx.RawDeflate.inflate = zip_inflate;
 
-})(this);
+})(window);
