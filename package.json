@@ -1,0 +1,22 @@
+{
+  "name": "js-deflate",
+  "version": "1.0.0",
+  "description": "Raw (De|In)flate in Javascript ==============================",
+  "main": "rawdeflate.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamilkp/js-deflate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamilkp/js-deflate/issues"
+  },
+  "homepage": "https://github.com/kamilkp/js-deflate#readme"
+}
